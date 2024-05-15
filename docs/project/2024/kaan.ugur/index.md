@@ -81,7 +81,20 @@ Project will look more or less like the following diagram:
 
 ### Week 6 - 12 May
 
+
+- I already had the all components and I tried to learn something more about Rust fundamentals.
+- I kept getting errors and I tried to solve them sometimes it took even hours, with debuging them I actually learned the logic behind it.
+- I tried to solve more things and if it was possible added more things for hardware and software parts.
+
 ### Week 7 - 19 May
+
+- I improved the hardware part and made the connections more understandable.
+- I worked on prototype to show main idea I tried to make it somehow with using even chopsticks and incenses.
+- At the same time still did not make all the components work and I am still working on the codes.
+
+
+### Week 7 - 19 May
+
 
 ### Week 20 - 26 May
 
@@ -105,9 +118,38 @@ Project will look more or less like the following diagram:
   
   **8-A Hat:** A prototype hat to make the project portable.
 
+
+  **Additional Pictures of Project.**
+  
+  Pictures of the hardware.
+  
+  ![Picture of Hardware](hardware.jpg)
+
+  From front                             | From top
+  :--------------------------------------|--------------------------------------:
+  <img src="hardware_front.jpg" width="700" height="500"> | <img src="hardware_top.jpg" width="700" height="500">
+
+  **Additional Pictures of the prototype**
+
+  This is just a unprofessionally prototype to show the **main idea.** I am still working on it.
+
+  Prototype from side                                             | Prototype from front
+  :-----------------------------------------------------|-----------------------------------------------------:
+<img src="prototype_side.jpg" width="500" height="500"> | <img src="prototype_front.jpg" width="500" height="500">
+  
+
+  
+
+  
+
 ### Schematics
 
-Place your KiCAD schematics here.
+Schematic of the project on KiCad Application.
+
+![Schematic of the project with using KiCad](schema_hardware.png)
+
+
+
 
 ### Bill of Materials
 
